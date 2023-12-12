@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hey there! Welcome to EdoMan000's GitHub
+    Welcome to MatteoCalzetta's GitHub
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -13,19 +13,7 @@
 
 # :man_technologist: About Me :
 
-- 📚 I'm a graduate student pursuing my Master's degree in Tor Vergata, specializing in computer engineering. 
-
-- 💻 As a cybersecurity enthusiast, I'm passionate about exploring the ever-evolving world of cybersecurity and its challenges. 
-
-- 🎓 I hold a Bachelor's degree in Computer Engineering, and my academic background has provided me with a solid foundation in various areas of information technology. 
-
-- 💪 My GitHub repository showcases a collection of my projects, including those completed during my undergraduate studies. These projects span a wide range of topics in computer engineering, such as software development, system design, and algorithm implementation. 
-
-- 💼 While my current projects are primarily focused on my academic pursuits, I'm eager to expand my portfolio with more real-world projects and gain practical experience in the field. I'm always on the lookout for opportunities to contribute to cybersecurity initiatives and enhance my skills. 
-
-- 🚀 Join me on my journey to explore the exciting world of computer engineering and cybersecurity, and check out my GitHub repository to see my latest projects! 
-
-#computerengineering #github #projects #coding #learning 💻📚💼
+//to fill
 
 
 # :hammer_and_wrench: Languages and Tools I am learning :
